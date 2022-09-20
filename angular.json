@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "2a4db4f8-3a70-495d-a8ed-6ff5bccfc3b8"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -74,7 +77,10 @@
               "browserTarget": "HealthCheck:build:development"
             }
           },
-          "defaultConfiguration": "development"
+          "defaultConfiguration": "development",
+          "options": {
+            "proxyConfig": "src/proxy.conf.js"
+          }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",

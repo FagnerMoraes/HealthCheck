@@ -1,0 +1,4 @@
+C:\dev\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+C:\dev\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
+C:\dev\AngularDotnetProjects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+C:\dev\AngularDotnetProjects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
